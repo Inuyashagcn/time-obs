@@ -1,0 +1,22 @@
+body {
+    font-family: Blinker;
+    font-size: 28px;
+    font-weight: 600;
+    font-style: italic;
+    text-align: left;
+    text-shadow: rgb(0, 0, 0) 1px 1px 1px;
+    background: transparent;
+    text-transform: uppercase;
+    color: #ffd900;
+    border-collapse: separate;
+    }
+    
+    a {
+        font-size: 14px;
+        font-weight: 600;
+        font-style: normal;
+        background: transparent;
+        padding: 2px 6px;
+        border-collapse: separate;
+        vertical-align: middle;
+        }
