@@ -1,6 +1,6 @@
 body {
 font-family: Blinker;
-font-size: 34px;
+font-size: 24px;
 font-weight: 600;
 font-style: italic;
 text-align: center;
@@ -10,7 +10,7 @@ border-collapse: separate;
 }
 
 a {
-    font-size: 24px;
+    font-size: 14px;
     font-weight: 600;
     background: transparent;
     color: #fff;
