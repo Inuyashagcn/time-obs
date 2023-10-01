@@ -1,0 +1,4 @@
+name: time-obs
+recipe: lamp
+config:
+  webroot: .
