@@ -10,7 +10,7 @@
 <?php
 ini_set('date.timezone','America/Guatemala'); 
 echo date("G:i");
-echo ' <a>CDMX</a>'
+echo '<a>MEX</a>'
 ?>
 </body>
 </html>

@@ -10,7 +10,7 @@
 <?php
 ini_set('date.timezone','America/Santiago'); 
 echo date("G:i");
-echo ' <a>CHL</a>'
+echo '<a>CHL</a>'
 ?>
 </body>
 </html>

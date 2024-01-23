@@ -10,7 +10,7 @@
 <?php
 ini_set('date.timezone','America/Bogota'); 
 echo date("G:i");
-echo ' <a>COL</a>'
+echo '<a>COL</a>'
 ?>
 </body>
 </html>
