@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>CHL</title>
+    <title>VEN</title>
     <link rel="stylesheet" href="style.css">
     <script type="text/javascript">
        setTimeout(function(){ location.reload(1);}, 1000);
@@ -8,9 +8,9 @@
 </head>
 <body>
 <?php
-ini_set('date.timezone','America/Santiago'); 
+ini_set('date.timezone','America/Caracas'); 
 echo date("H:i");
-echo '<a>CHL</a>'
+echo '<a>VEN</a>'
 ?>
 </body>
 </html>
